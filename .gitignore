@@ -1,0 +1,17 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Data files
+*.csv
+
+# Unnecessary files
+*.py
+EDA_daylight.ipynb
+
+# Virtual environments
+.venv
