@@ -12,6 +12,7 @@ wheels/
 # Unnecessary files
 *.py
 EDA_daylight.ipynb
+*.pdf
 
 # Virtual environments
 .venv
